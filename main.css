@@ -1,0 +1,99 @@
+ /*THE BEGINNING OF MY CODE*/
+
+* {
+  text-align: center;
+  background-color: black;
+  color: white;
+
+}
+
+.wrapper {
+  margin: 0, auto;
+  width: 100%;
+}
+
+ #title {
+   color: purple;
+
+ }
+
+ .purple-text {
+   font-family: lobster;
+   font-style: normal;
+   color: purple;
+   text-align: center;
+   text-decoration: overline;
+   text-transform: uppercase;
+
+ }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  border-style: solid;
+  border-color: purple;
+  border-width: thin;
+
+}
+
+
+#img-div {
+  text-align: center;
+
+
+
+}
+
+#tribute-info {
+  margin: auto;
+  max-width: 50%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+
+}
+
+#tribute-info h2 {
+  text-align: center;
+
+
+}
+
+#tribute-info ul {
+  list-style-type: none;
+}
+
+#tribute-info li{
+  padding: 5px;
+
+}
+
+#wikipedia-page {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 15px;
+
+}
+
+#final-quote p  {
+  font-style: italic;
+  page-break-after: avoid;
+  font-family: serif;
+  font-size: 20px;
+  padding: 20px;
+
+
+}
+
+#final-quote p:hover  {
+  font-style: italic;
+  page-break-after: avoid;
+  font-family: serif;
+  font-size: 20px;
+  color: yellow;
+
+
+
+}
